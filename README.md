@@ -5,8 +5,6 @@ Super excited to share my latest project — a clean and responsive Amazon clone
  ✅ CSS (Flexbox magic!)
  ✅ Font Awesome for icons
 
-💡 I’m currently on my JavaScript learning journey, and can’t wait to bring this clone to life with interactivity and more functionality!!
-
 🧩 Features:
  📦 Custom dropdown for category selection (like the "All" menu)
  🔍 Search bar with a clickable search icon
