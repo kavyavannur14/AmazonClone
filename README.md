@@ -6,7 +6,7 @@ Just built an Amazon homepage clone! Super excited to share my latest project �
 
 Click the link below to view the live website:
 
-👉[ View Live Site Here :  ](https://amazon-clone-tdde.vercel.app/)
+👉[ View Live Site Here   ](https://amazon-clone-tdde.vercel.app/)
 
 🔧 Tech Stack Used
 
